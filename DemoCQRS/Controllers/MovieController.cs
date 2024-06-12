@@ -8,6 +8,7 @@ namespace DemoCQRS.Controllers;
 public class MovieController : ControllerBase
 {
     private readonly AppDbContext _context;
+
     public MovieController(AppDbContext context)
     {
         _context = context;
