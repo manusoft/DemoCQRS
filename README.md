@@ -1,5 +1,7 @@
 # DemoCQRS - ASP.NET Web API Project
 
+<p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=manusoft.DemoCQRS" alt="visitor" style="max-width: 100%;"></p>
+
 DemoCQRS is an ASP.NET Web API project showcasing the implementation of the Command Query Responsibility Segregation (CQRS) pattern. The project demonstrates two versions: one without using MediatR and another with MediatR.
 
 ## Branches
